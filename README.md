@@ -1,4 +1,4 @@
-# qrview
+# qrview - flutter 
 
 A new Flutter project.
 
